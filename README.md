@@ -1,6 +1,47 @@
-# onboard-lucas-fachi
+# project
 
-Test and create
+# Environment
+
+Ubuntu 20.04
+Node v17.0.0
+NPM v8.1.0
+Web project using Typescript
+
+# Init project
+
+To init project, use:
+
+`npm start`
+
+to run the webapp localy.
+
+If you find some problems, you should run 
+`npm install`
+to install package extension, after then you should run `npm start` again
+
+# Test project
+
+Run:
+
+`npm test`
+
+to test project
+
+
+# Build
+
+To lanch webapp from production to build, run:
+
+`npm run build` 
+
+
+
+# Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/). -->
+
 
 <!-- # Getting Started with Create React App
 
