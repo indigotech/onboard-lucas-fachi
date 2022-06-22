@@ -8,6 +8,5 @@ module.exports = {
       'eslint:recommended',
       'plugin:@typescript-eslint/recommended',
       'prettier',
-      'typescript-eslint/no-unused-vars',
     ],
   };
