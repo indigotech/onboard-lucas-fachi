@@ -1,13 +1,13 @@
-# project
+# Project
 
-# Environment
+## Environment
 
 Ubuntu 20.04
 Node v17.0.0
 NPM v8.1.0
 Web project using Typescript
 
-# Init project
+## Init project
 
 To init project, use:
 
@@ -19,7 +19,7 @@ If you find some problems, you should run
 `npm install`
 to install package extension, after then you should run `npm start` again
 
-# Test project
+## Test project
 
 Run:
 
@@ -28,7 +28,7 @@ Run:
 to test project
 
 
-# Build
+## Build
 
 To lanch webapp from production to build, run:
 
@@ -36,7 +36,7 @@ To lanch webapp from production to build, run:
 
 
 
-# Learn More
+## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
